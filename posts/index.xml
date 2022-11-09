@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Manohar&#39;s Blog</title>
+    <link>https://decodeai.in/posts/</link>
+    <description>Recent content in Posts on Manohar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 31 Oct 2022 08:08:59 +0530</lastBuildDate><atom:link href="https://decodeai.in/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing</title>
+      <link>https://decodeai.in/posts/test-post/testing/</link>
+      <pubDate>Mon, 31 Oct 2022 08:08:59 +0530</pubDate>
+      
+      <guid>https://decodeai.in/posts/test-post/testing/</guid>
+      <description>1class Graph { 2 3 // inner class 4 // to keep track of edges 5 class Edge { 6 int src, dest; 7 } 8 9 // number of vertices and edges 10 int vertices, edges; 11 12 // array to store all edges 13 Edge[] edge; 14 15 Graph(int vertices, int edges) { 16 this.vertices = vertices; 17 this.edges = edges; 18 19 // initialize the edge array 20 edge = new Edge[edges]; 21 for(int i = 0; i &amp;lt; edges; i++) { 22 23 // each element of the edge array 24 // is an object of Edge type 25 edge[i] = new Edge(); 26 } 27 } 1 print(f&amp;#34;Numpy: {np.</description>
+    </item>
+    
+    <item>
+      <title>Arch</title>
+      <link>https://decodeai.in/posts/test-post/arch/</link>
+      <pubDate>Mon, 17 Oct 2022 09:04:19 +0530</pubDate>
+      
+      <guid>https://decodeai.in/posts/test-post/arch/</guid>
+      <description>Text about this post</description>
+    </item>
+    
+    <item>
+      <title>MongoDB</title>
+      <link>https://decodeai.in/posts/mongodb/mongodb/</link>
+      <pubDate>Sat, 08 Oct 2022 13:23:17 +0530</pubDate>
+      
+      <guid>https://decodeai.in/posts/mongodb/mongodb/</guid>
+      <description>Text about this post</description>
+    </item>
+    
+  </channel>
+</rss>

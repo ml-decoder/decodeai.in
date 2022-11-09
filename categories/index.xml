@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Manohar&#39;s Blog</title>
+    <link>https://decodeai.in/categories/</link>
+    <description>Recent content in Categories on Manohar&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Oct 2022 09:04:19 +0530</lastBuildDate><atom:link href="https://decodeai.in/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://decodeai.in/categories/git/</link>
+      <pubDate>Mon, 17 Oct 2022 09:04:19 +0530</pubDate>
+      
+      <guid>https://decodeai.in/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cat1</title>
+      <link>https://decodeai.in/categories/cat1/</link>
+      <pubDate>Sat, 08 Oct 2022 13:23:17 +0530</pubDate>
+      
+      <guid>https://decodeai.in/categories/cat1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
